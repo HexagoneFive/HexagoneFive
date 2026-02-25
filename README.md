@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guilherme R.C. Autor of @HexagoneFive
 - 💬 @HexagoneFive is a Github Directory/Account to my Projects
-- 👀 I’m interested in Web Dev and Desktop Application
+- 👀 I’m interested in Web Dev, Desktop Application, Hardware Application and Research About Programming
 - 🌱 I’m currently learning Binary Crypted Files Handled in Web Enviroment
 - 💞️ I’m looking to collaborate on ... not sure yet.
 - 📫 How to reach me hexagonefive@gmail.com
